@@ -9,3 +9,5 @@ rea-evidence/
 .vscode/
 .idea/
 *.log
+
+.vercel
